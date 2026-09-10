@@ -10,7 +10,7 @@ The dataset contains two files:
 ## Source
 
 Kaggle dataset:
-https://www.kaggle.com/datasets/clemletbisaillon/fake-and-real-news-dataset
+(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 The original CSV files are not stored directly in this GitHub repository because of their large file size.
 
